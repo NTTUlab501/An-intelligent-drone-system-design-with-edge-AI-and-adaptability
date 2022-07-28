@@ -1,0 +1,4 @@
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.bsp filter=lfs diff=lfs merge=lfs -text
+*.xsa filter=lfs diff=lfs merge=lfs -text
+list filter=lfs diff=lfs merge=lfs -text
