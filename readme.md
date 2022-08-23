@@ -12,4 +12,4 @@
 ##Air Pollution Detection  
 | item  |   |
 | ------------- | ------------- |
-| CNN_Model  |VGG16  |
+| CNN_Model  |VGG16 |
