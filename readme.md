@@ -1,5 +1,5 @@
-# An-intelligent-drone-system-design-with-edge-AI-and-adaptability
-回應國家重要挑戰之人工智慧主題研究專案子計畫-具邊緣人工智慧與可適應性之智能無人機系統設計  
+# Data Governance for Sustainable Smart City - SP3: An Intelligent Drone System Design with Edge AI and Adaptability
+# 回應國家重要挑戰之人工智慧主題研究專案-永續智慧城市之資料治理 - 子計畫3: 具邊緣人工智慧與可適應性之智能無人機系統設計  
 
 ## System environment  
 | item  |   |
