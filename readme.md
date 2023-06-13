@@ -20,3 +20,9 @@ This work presents the ETAUS, an Edge and Trustworthy AI UAV System, as a mobile
 | ------------- | ------------- |
 | AQI Level Classification | Customized ResNet50 |
 | Detection for Objects with Individuals' Privacy| YOLOv4 |
+
+## Dataset  
+| Item  |  Source  |
+| ------------- | ------------- |
+| Environmental Information Open Platform | https://data.epa.gov.tw/paradigm |
+| Air Pollution Image Dataset from India and Nepal | https://www.kaggle.com/ds/3152196 |
