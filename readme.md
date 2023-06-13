@@ -14,7 +14,7 @@ This work presents the ETAUS, an Edge and Trustworthy AI UAV System, as a mobile
 | OS  | Petalinux  |
 | Neural Engine | Xilinx DPU |
 
-## AI Models  
+## Edge AI Models  
 | Item  |   |
 | ------------- | ------------- |
 | AQI Level Classification | Customized ResNet50 |
