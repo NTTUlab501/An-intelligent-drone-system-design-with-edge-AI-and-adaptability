@@ -18,15 +18,15 @@ This work presents the ETAUS, an Edge and Trustworthy AI UAV System, as a mobile
 ## Edge AI Models
 | Item  |   |
 | ------------- | ------------- |
-| AQI Level Classification | Customized ResNet50 |
-| RPI Level Classification | Dual CNN |
+| Air pollution detection (AQI Level Classification) | Customized ResNet50 |
+| Water quality monitoring (RPI Level Classification) | Dual CNN |
 | Detection for Objects with Individuals' Privacy| YOLOv4 |
 
-Download link: [AQI Level Classification Model](http://gofile.me/6V2by/wech3b0B2 "AQI Level Classification Model")
-Download link: [RPI Level Classification Model](http://gofile.me/6V2by/wech3b0B2 "AQI Level Classification Model")  
 
 ## Dataset
 | Item  |  Source  |
 | ------------- | ------------- |
 | Environmental Information Open Platform | https://data.epa.gov.tw/paradigm |
 | Air Pollution Image Dataset from India and Nepal | https://www.kaggle.com/ds/3152196 |
+| Water Pollution Image Dataset | https://github.com/ccusp7/D07-2 |
+
